@@ -2,9 +2,9 @@
 @ Author 
      * Created by : Edmond Kumah (eddie-dotcom)
      * 
-     * Date : 04/01/2024
-     
-    */
+     * Date : 04/01/2024 
+*/
+
 #include <stdio.h>
 #include <conio.h> 
 #include <string.h>
