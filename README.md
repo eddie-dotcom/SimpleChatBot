@@ -14,5 +14,5 @@ Follow these steps to set up and run the AI ChatBot on your system:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/AI-ChatBot.git
+git clone https://github.com/eddie-dotcom/AI-ChatBot.git
 cd AI-ChatBot
